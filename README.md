@@ -1,4 +1,4 @@
-# 🚀 Smart Event Explorer
+[# 🚀 Smart Event Explorer
 > **Leveraging AI to bridge the gap between students and verified campus events.**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -56,11 +56,11 @@ In the fast-paced digital ecosystem of university campuses, valuable opportuniti
 
 | **Home Feed** | **Search Event** | **Event Details** |
 | :---: | :---: | :---: |
-| <img src="https://drive.google.com/file/d/183DdSS8PQcgslr0tR4CMSGg413UeiuT8/view" height="400"> | <img src="https://drive.google.com/file/d/1mbTDTLRRfEVxrl7Jgq_670uRPsqV_XAf/view" height="400"> | <img src="https://drive.google.com/file/d/1VgJ0SNZ3dyqilvy1BiXnq7AkT-sOfPbi/view" height="400"> |
+| <img src="https://drive.google.com/thumbnail?id=183DdSS8PQcgslr0tR4CMSGg413UeiuT8" height="400"> | <img src="https://lh3.googleusercontent.com/d/1mbTDTLRRfEVxrl7Jgq_670uRPsqV_XAf=s220" height="400"> | <img src="https://drive.google.com/thumbnail?id=1VgJ0SNZ3dyqilvy1BiXnq7AkT-sOfPbi/view" height="400"> |
 
 | **Maps Section** | **Create Event** | **Forgot Password** |
 | :---: | :---: | :---: |
-| <img src="https://drive.google.com/file/d/1q4vo6Gbpb9naAJ_UyxKQdC8DSLAH-sSL/view" height="400"> | <img src="https://drive.google.com/thumbnail?id=1bphj1kzgd-Ywrpqu6mCHIZvfIEAbOWmG" height="400"> | <img src="https://drive.google.com/thumbnail?id=1H0xBB5ui75nTPxVPdbtSKr-igf0UQbmk" height="400"> |
+| <img src="https://drive.google.com/thumbnail?id=1q4vo6Gbpb9naAJ_UyxKQdC8DSLAH-sSL" height="400"> | <img src="https://drive.google.com/thumbnail?id=1bphj1kzgd-Ywrpqu6mCHIZvfIEAbOWmG" height="400"> | <img src="https://drive.google.com/thumbnail?id=1H0xBB5ui75nTPxVPdbtSKr-igf0UQbmk" height="400"> |
 
 ---
 
@@ -165,3 +165,4 @@ flutter run
 | **Pratham Rana** | App Developer |
 
 ---
+](https://www.google.com/search?q=https://via.placeholder.com/300x600%3Ftext%3DOverview%2BScreen)
