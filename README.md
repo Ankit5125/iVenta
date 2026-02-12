@@ -56,7 +56,7 @@ In the fast-paced digital ecosystem of university campuses, valuable opportuniti
 
 | **Home Feed** | **Search Event** | **Event Details** |
 | :---: | :---: | :---: |
-| <img src="https://drive.google.com/thumbnail?id=183DdSS8PQcgslr0tR4CMSGg413UeiuT8" height="400"> | <img src="https://lh3.googleusercontent.com/d/1mbTDTLRRfEVxrl7Jgq_670uRPsqV_XAf=s220" height="400"> | <img src="https://drive.google.com/thumbnail?id=1VgJ0SNZ3dyqilvy1BiXnq7AkT-sOfPbi/view" height="400"> |
+| <img src="https://drive.google.com/thumbnail?id=183DdSS8PQcgslr0tR4CMSGg413UeiuT8" height="400"> | <img src="https://lh3.googleusercontent.com/d/1mbTDTLRRfEVxrl7Jgq_670uRPsqV_XAf=s220" height="400"> | <img src="https://drive.google.com/thumbnail?id=1VgJ0SNZ3dyqilvy1BiXnq7AkT-sOfPbi" height="400"> |
 
 | **Maps Section** | **Create Event** | **Forgot Password** |
 | :---: | :---: | :---: |
