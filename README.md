@@ -56,11 +56,11 @@ In the fast-paced digital ecosystem of university campuses, valuable opportuniti
 
 | **Home Feed** | **Search Event** | **Event Details** |
 | :---: | :---: | :---: |
-| <img src="https://drive.google.com/thumbnail?id=1QZbg1iDxMLeF0LWD7GAVuIV9ACm84Cm_" height="400"> | <img src="https://drive.google.com/thumbnail?id=1QA_-NkFRt_-0BH36mqoG-IeWa57hNXed" height="400"> | <img src="https://drive.google.com/thumbnail?id=1z7WRAPf60DybCQppdAb4SX_c-l7EV0OC" height="400"> |
+| <img src="https://drive.google.com/file/d/183DdSS8PQcgslr0tR4CMSGg413UeiuT8/view" height="400"> | <img src="https://drive.google.com/file/d/1mbTDTLRRfEVxrl7Jgq_670uRPsqV_XAf/view" height="400"> | <img src="https://drive.google.com/file/d/1VgJ0SNZ3dyqilvy1BiXnq7AkT-sOfPbi/view" height="400"> |
 
-| **Create Event** | **Forgot Password** |
-| :---: | :---: |
-| <img src="https://drive.google.com/thumbnail?id=1bphj1kzgd-Ywrpqu6mCHIZvfIEAbOWmG" height="400"> | <img src="https://drive.google.com/thumbnail?id=1H0xBB5ui75nTPxVPdbtSKr-igf0UQbmk" height="400"> |
+| **Maps Section** | **Create Event** | **Forgot Password** |
+| :---: | :---: | :---: |
+| <img src="https://drive.google.com/file/d/1q4vo6Gbpb9naAJ_UyxKQdC8DSLAH-sSL/view" height="400"> | <img src="https://drive.google.com/thumbnail?id=1bphj1kzgd-Ywrpqu6mCHIZvfIEAbOWmG" height="400"> | <img src="https://drive.google.com/thumbnail?id=1H0xBB5ui75nTPxVPdbtSKr-igf0UQbmk" height="400"> |
 
 ---
 
